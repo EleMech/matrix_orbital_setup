@@ -78,7 +78,8 @@ namespace SplashScreen
         // write to screen
         public void btnWrite_Click(object sender, EventArgs e)
         {
-            string str = tbLine1.Text + tbLine2.Text + tbLine3.Text + tbLine4.Text;
+            
+            string str = tbLine1.Text.PadRight(20) + tbLine2.Text.PadRight(20) + tbLine3.Text.PadRight(20) + tbLine4.Text.PadRight(20);
             string change_screen = "FE40";
 
             // convert string to hex string

@@ -11,3 +11,16 @@ C:\Users\ESilva\Documents\Visual Studio 2015\Projects\SplashScreen\SplashScreen\
 C:\Users\ESilva\Documents\Visual Studio 2015\Projects\SplashScreen\SplashScreen\bin\Debug\SplashScreen.application
 C:\Users\ESilva\Documents\Visual Studio 2015\Projects\SplashScreen\SplashScreen\obj\Debug\SplashScreen.exe.manifest
 C:\Users\ESilva\Documents\Visual Studio 2015\Projects\SplashScreen\SplashScreen\obj\Debug\SplashScreen.application
+C:\Git\matrix_orbital_setup\SplashScreen\bin\Debug\SplashScreen.exe.config
+C:\Git\matrix_orbital_setup\SplashScreen\obj\Debug\SplashScreen.exe
+C:\Git\matrix_orbital_setup\SplashScreen\obj\Debug\SplashScreen.pdb
+C:\Git\matrix_orbital_setup\SplashScreen\bin\Debug\SplashScreen.exe.manifest
+C:\Git\matrix_orbital_setup\SplashScreen\bin\Debug\SplashScreen.application
+C:\Git\matrix_orbital_setup\SplashScreen\bin\Debug\SplashScreen.exe
+C:\Git\matrix_orbital_setup\SplashScreen\bin\Debug\SplashScreen.pdb
+C:\Git\matrix_orbital_setup\SplashScreen\obj\Debug\SplashScreen.csprojResolveAssemblyReference.cache
+C:\Git\matrix_orbital_setup\SplashScreen\obj\Debug\SplashScreen.Form1.resources
+C:\Git\matrix_orbital_setup\SplashScreen\obj\Debug\SplashScreen.Properties.Resources.resources
+C:\Git\matrix_orbital_setup\SplashScreen\obj\Debug\SplashScreen.csproj.GenerateResource.Cache
+C:\Git\matrix_orbital_setup\SplashScreen\obj\Debug\SplashScreen.exe.manifest
+C:\Git\matrix_orbital_setup\SplashScreen\obj\Debug\SplashScreen.application
