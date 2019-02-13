@@ -1,0 +1,13 @@
+c:\users\esilva\documents\visual studio 2015\Projects\SplashScreen\SplashScreen\bin\Debug\SplashScreen.exe.config
+c:\users\esilva\documents\visual studio 2015\Projects\SplashScreen\SplashScreen\bin\Debug\SplashScreen.exe
+c:\users\esilva\documents\visual studio 2015\Projects\SplashScreen\SplashScreen\bin\Debug\SplashScreen.pdb
+c:\users\esilva\documents\visual studio 2015\Projects\SplashScreen\SplashScreen\obj\Debug\SplashScreen.Form1.resources
+c:\users\esilva\documents\visual studio 2015\Projects\SplashScreen\SplashScreen\obj\Debug\SplashScreen.Properties.Resources.resources
+c:\users\esilva\documents\visual studio 2015\Projects\SplashScreen\SplashScreen\obj\Debug\SplashScreen.csproj.GenerateResource.Cache
+c:\users\esilva\documents\visual studio 2015\Projects\SplashScreen\SplashScreen\obj\Debug\SplashScreen.exe
+c:\users\esilva\documents\visual studio 2015\Projects\SplashScreen\SplashScreen\obj\Debug\SplashScreen.pdb
+C:\Users\ESilva\Documents\Visual Studio 2015\Projects\SplashScreen\SplashScreen\obj\Debug\SplashScreen.csprojResolveAssemblyReference.cache
+C:\Users\ESilva\Documents\Visual Studio 2015\Projects\SplashScreen\SplashScreen\bin\Debug\SplashScreen.exe.manifest
+C:\Users\ESilva\Documents\Visual Studio 2015\Projects\SplashScreen\SplashScreen\bin\Debug\SplashScreen.application
+C:\Users\ESilva\Documents\Visual Studio 2015\Projects\SplashScreen\SplashScreen\obj\Debug\SplashScreen.exe.manifest
+C:\Users\ESilva\Documents\Visual Studio 2015\Projects\SplashScreen\SplashScreen\obj\Debug\SplashScreen.application
