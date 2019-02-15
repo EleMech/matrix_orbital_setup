@@ -95,21 +95,13 @@ namespace SplashScreen
             // convert hex string to binary 
             string save_screen = (change_screen + strHex);
             byte[] result = StringToByteArray(save_screen);
-        
-            // check if message is 80 characters
-            if (str.Length == 80)
+            
+            try
             {
-                try
-                {
-                    sp.Write(str);
-                    sp.Write(result, 0, result.Length);
-                }
-                catch (Exception E) { MessageBox.Show(E.ToString(), "Error"); }
+                sp.Write(str);
+                sp.Write(result, 0, result.Length);
             }
-            else
-            {
-                MessageBox.Show("Please enter 80 characters (use spaces if needed).");
-            }
+            catch (Exception E) { MessageBox.Show(E.ToString(), "Error"); 
         }
 
         // turn backlight on/off 
